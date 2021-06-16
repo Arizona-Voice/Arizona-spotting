@@ -22,7 +22,7 @@ We provide two main SoTA architectures:
 ## Installation <a name='installation'></a>
 
 ```js
->>> git@github.com:phanxuanphucnd/Arizona-spotting.git
+>>> git@github.com:Arizona-Voice/Arizona-spotting.git
 
 >>> cd Arizona-spotting
 
