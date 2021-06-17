@@ -1,7 +1,7 @@
 from datetime import datetime
-from denver_spotting.models import Wav2KWS
-from denver_spotting.datasets import Wav2KWSDataset
-from denver_spotting.learners import Wav2KWSLearner
+from arizona_spotting.models import Wav2KWS
+from arizona_spotting.datasets import Wav2KWSDataset
+from arizona_spotting.learners import Wav2KWSLearner
 
 def test_evaluate():
     
